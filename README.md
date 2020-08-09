@@ -10,3 +10,4 @@ This app is made using Bootstrap, css , vanilla javascript and Covid API
 
 
   ![Imgur](https://imgur.com/nHp14Uq)
+[Imgur](https://imgur.com/nHp14Uq)
