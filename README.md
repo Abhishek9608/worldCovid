@@ -7,7 +7,7 @@ This app is made using Bootstrap, css , vanilla javascript and Covid API
 
 ```
 
-
+![Imgur](https://i.imgur.com/nHp14Uq.png)
 
   ![Imgur](https://imgur.com/nHp14Uq)
 [Imgur](https://imgur.com/nHp14Uq)
