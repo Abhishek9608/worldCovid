@@ -9,4 +9,4 @@ This app is made using Bootstrap, css , vanilla javascript and Covid API
 
 
 
-   ![imgtag](https://raw.githubusercontent.com/Abhishek9608/AbhishekPortfolio/master/pic/food.png)
+   ![imgtag](https://imgur.com/nHp14Uq)
